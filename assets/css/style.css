@@ -574,7 +574,7 @@ section {
   position: relative;
   overflow: hidden;
   margin: 0;
-  background: #fff;
+  background: #F7F8FA;
   box-shadow: 0 10px 29px 0 #fff;
   transition: all 0.3s ease-in-out;
   border-radius: 4px;
