@@ -609,35 +609,35 @@ section {
 }
 
 .services .icon-box-pink .icon i {
-  color: #ff689b;
+  color: #8AC9FE;
 }
 
 .services .icon-box-pink:hover {
-  border-color: #ff689b;
+  border-color: #8AC9FE;
 }
 
 .services .icon-box-cyan .icon i {
-  color: #3fcdc7;
+  color: #E79098;
 }
 
 .services .icon-box-cyan:hover {
-  border-color: #3fcdc7;
+  border-color: #E79098;
 }
 
 .services .icon-box-green .icon i {
-  color: #41cf2e;
+  color: #F9D266;
 }
 
 .services .icon-box-green:hover {
-  border-color: #41cf2e;
+  border-color: #F9D266;
 }
 
 .services .icon-box-blue .icon i {
-  color: #2282ff;
+  color: #ff851b;
 }
 
 .services .icon-box-blue:hover {
-  border-color: #2282ff;
+  border-color: #ff851b;
 }
 
 /*--------------------------------------------------------------
