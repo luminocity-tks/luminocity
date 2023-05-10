@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #1eb4ff;
+  color: #ff851b;
   text-decoration: none;
 }
 
@@ -45,13 +45,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #009cea;
+  background: #ff851b;
   color: #fff;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-  background: #14b1ff;
+  background: #ff851b;
   color: #fff;
 }
 
@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-social-links a:hover {
-  color: #009cea;
+  color: #ff851b;
 }
 
 @media (max-width: 768px) {
@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #009cea;
+  color: #ff851b;
   text-decoration: none;
 }
 
@@ -193,7 +193,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #009cea;
+  color: #ff851b;
 }
 
 .nav-menu .drop-down > a:after {
@@ -253,7 +253,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #009cea;
+  color: #ff851b;
 }
 
 .mobile-nav {
@@ -288,7 +288,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #009cea;
+  color: #ff851b;
   text-decoration: none;
 }
 
@@ -531,12 +531,12 @@ section {
 .features .nav-link.active {
   border-radius: 0;
   border: 0;
-  border-left: 4px solid #009cea;
+  border-left: 4px solid #ff851b;
   background: #fafbfb;
 }
 
 .features .nav-link.active h4 {
-  color: #009cea;
+  color: #ff851b;
 }
 
 .features .tab-pane.active {
